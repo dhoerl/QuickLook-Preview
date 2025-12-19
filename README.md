@@ -1,7 +1,9 @@
 # QuickLook-Preview
 
 
-Reference: https://stackoverflow.com/questions/78812968/how-to-debug-quick-look-preview-extension-with-xcode
+References: 
+  https://stackoverflow.com/questions/78812968/how-to-debug-quick-look-preview-extension-with-xcode
+  https://ianhocking.com/prog/posts/debugging-macos-thumbnails-previews/
 
 It appeared that Apple broke debugging QuickLook Previews, but my guess
 is that MacOS became pickier about the metadata included in the plists.
