@@ -22,4 +22,6 @@ Steps:
 - select "Finder"
 - open a Finder window and select thallax-red.ork, then tap the space bar
 - you should see a rocket outline
+- I recall reading that after doing all the above, if nothing happens, reboot the Mac
+  (I sorta recall that I did this and it finally worked!)
 
